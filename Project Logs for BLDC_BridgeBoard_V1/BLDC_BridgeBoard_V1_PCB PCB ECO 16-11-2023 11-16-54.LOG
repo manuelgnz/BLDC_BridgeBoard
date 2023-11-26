@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C23 Old Footprint=RAD-0.3 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C24 Old Footprint=RAD-0.3 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C25 Old Footprint=RAD-0.3 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C15 Old Footprint=RB7.6-15 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C18 Old Footprint=RB7.6-15 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C19 Old Footprint=RB7.6-15 New Footprint=CAP 0805_2012
+Change Component Footprint: Designator=C21 Old Footprint=RB7.6-15 New Footprint=CAP 0805_2012
+Added Member To Class: ClassName=Sheet2 Member=Component C21 0.1 µF

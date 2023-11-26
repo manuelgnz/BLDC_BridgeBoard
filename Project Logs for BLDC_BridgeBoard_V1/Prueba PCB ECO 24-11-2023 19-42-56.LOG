@@ -1,0 +1,244 @@
+Add Component: Footprint Not Found SOIC127P600X175-16N
+Add Component: Footprint Not Found SOIC127P600X175-16N
+Add Component: Footprint Not Found SOIC127P600X175-16N
+Added Component: Designator=C1(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CB"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0805_2012
+Added Component: Designator=C5(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0805_2012
+Added Component: Designator=C7(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CB"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CB"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Added Component: Designator=C17(CapacitorRadialElectrolytic)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found INFINEON TO-263-7
+Add Component: Footprint Not Found HDR1X14
+Add Component: Footprint Not Found HDR1X3
+Add Component: Footprint Not Found STACKPOLE CSR0402
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found POT BOURNS TRIMPOT TC33
+Add Component: Footprint Not Found STACKPOLE CSR0402
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found STACKPOLE CSR0402
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found POT BOURNS TRIMPOT TC33
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found RES 0805_2012
+Add Component: Footprint Not Found D8
+Add Component: Footprint Not Found D8
+Add Component: Footprint Not Found D8
+Add Component: Footprint Not Found D8
+Added Component: Designator=W1(Jumper_2_pos)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W2(Jumper_2_pos)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W3(Jumper_2_pos)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Net: Name=-V12
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=AGND Pin=C17-2
+Added Net: Name=AGND
+Added Net: Name=DISABLE_GPIO
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=W1-1
+Added Pin To Net: NetName=GND Pin=W2-1
+Added Pin To Net: NetName=GND Pin=W3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_6 Pin=W1-2
+Added Net: Name=NetB1_6
+Added Net: Name=NetB1_10
+Added Pin To Net: NetName=NetB1_11 Pin=C5-1
+Added Net: Name=NetB1_11
+Added Pin To Net: NetName=NetB1_14 Pin=C2-2
+Added Net: Name=NetB1_14
+Added Net: Name=NetB1_15
+Added Pin To Net: NetName=NetB1_16 Pin=C2-1
+Added Net: Name=NetB1_16
+Added Pin To Net: NetName=NetB2_6 Pin=W2-2
+Added Net: Name=NetB2_6
+Added Net: Name=NetB2_10
+Added Pin To Net: NetName=NetB2_11 Pin=C10-1
+Added Net: Name=NetB2_11
+Added Pin To Net: NetName=NetB2_14 Pin=C8-2
+Added Net: Name=NetB2_14
+Added Net: Name=NetB2_15
+Added Pin To Net: NetName=NetB2_16 Pin=C8-1
+Added Net: Name=NetB2_16
+Added Pin To Net: NetName=NetB3_6 Pin=W3-2
+Added Net: Name=NetB3_6
+Added Net: Name=NetB3_10
+Added Pin To Net: NetName=NetB3_11 Pin=C17-1
+Added Net: Name=NetB3_11
+Added Pin To Net: NetName=NetB3_14 Pin=C12-2
+Added Net: Name=NetB3_14
+Added Net: Name=NetB3_15
+Added Pin To Net: NetName=NetB3_16 Pin=C12-1
+Added Net: Name=NetB3_16
+Added Net: Name=NetR3_1
+Added Net: Name=NetR3_2
+Added Net: Name=NetR5_1
+Added Net: Name=NetR5_3
+Added Net: Name=NetR11_1
+Added Net: Name=NetR12_1
+Added Net: Name=NetR13_1
+Added Net: Name=NetR13_3
+Added Net: Name=NetR14_1
+Added Net: Name=NetR?_2
+Added Net: Name=PHA_A_ADC
+Added Net: Name=PHA_B_ADC
+Added Net: Name=PHA
+Added Net: Name=PHB
+Added Net: Name=PHC
+Added Net: Name=PWM1_A
+Added Net: Name=PWM1_B
+Added Net: Name=PWM2_A
+Added Net: Name=PWM2_B
+Added Net: Name=PWM3_A
+Added Net: Name=PWM3_B
+Added Pin To Net: NetName=V5 Pin=C3-1
+Added Pin To Net: NetName=V5 Pin=C9-1
+Added Pin To Net: NetName=V5 Pin=C13-1
+Added Net: Name=V5
+Added Pin To Net: NetName=V12 Pin=C1-1
+Added Pin To Net: NetName=V12 Pin=C7-1
+Added Pin To Net: NetName=V12 Pin=C11-1
+Added Net: Name=V12

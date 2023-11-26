@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=C23 Old Footprint=CAP 0805_2012 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C24 Old Footprint=CAP 0805_2012 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C25 Old Footprint=CAP 0805_2012 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C15 Old Footprint=CAP 0805_2012 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C18 Old Footprint=CAP 0805_2012 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C19 Old Footprint=CAP 0805_2012 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C21 Old Footprint=CAP 0805_2012 New Footprint=RB7.6-15
+Change Component Comment: Designator=C23 Old Comment==Value New Comment=Cap
+Change Component Comment: Designator=C24 Old Comment==Value New Comment=Cap
+Change Component Comment: Designator=C25 Old Comment==Value New Comment=Cap
+Change Component Comment: Designator=C15 Old Comment==Value New Comment=Cap Pol1
+Change Component Comment: Designator=C18 Old Comment==Value New Comment=Cap Pol1
+Change Component Comment: Designator=C19 Old Comment==Value New Comment=Cap Pol1
+Change Component Comment: Designator=C21 Old Comment==Value New Comment=Cap Pol1
+Change Pin Designator/Name:  Old Designator=C19-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C21-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C23-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C24-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C25-1 Old Name=1 New Designator =2 New Name=2

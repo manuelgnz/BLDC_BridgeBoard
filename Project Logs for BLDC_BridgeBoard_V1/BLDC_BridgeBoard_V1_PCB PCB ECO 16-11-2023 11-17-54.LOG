@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=PHA_B_ADC Pin=R12-1
+Added Pin To Net: NetName=PHA_A_ADC Pin=U1-6
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Pin To Net: NetName=PHB Pin=U3-3

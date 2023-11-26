@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=V12 Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Change Component Comment : Designator=C23 Old Comment=Cap New Comment=0.1 µF
+Change Component Comment : Designator=C24 Old Comment=Cap New Comment=0.1 µF
+Change Component Comment : Designator=C25 Old Comment=Cap New Comment=0.1 µF
+Change Component Comment : Designator=C15 Old Comment=Cap Pol1 New Comment=0.1 µF
+Change Component Comment : Designator=C18 Old Comment=Cap Pol1 New Comment=0.1 µF
+Change Component Comment : Designator=C19 Old Comment=Cap Pol1 New Comment=0.1 µF
+Change Component Comment : Designator=C21 Old Comment=Cap Pol1 New Comment=0.1 µF
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=-V12 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=-V12 Pin=C21-2
+Added Pin To Net: NetName=V12 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=-V12 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR6_2 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetB2_14 Pin=U3-3

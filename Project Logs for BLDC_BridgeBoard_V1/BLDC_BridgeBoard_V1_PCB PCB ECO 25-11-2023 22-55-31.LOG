@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PHA Pin=P?-1
+Removed Pin From Net: NetName=PHC Pin=P?-3
+Added Pin To Net: NetName=PHC Pin=P?-1
+Added Pin To Net: NetName=PHA Pin=P?-3
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=V12 Pin=R17-1
