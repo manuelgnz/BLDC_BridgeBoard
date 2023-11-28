@@ -1,6 +1,6 @@
 Record=TopLevelDocument|FileName=0_Overview.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=1_FET_A.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=2_FET_B.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=3_FET_C.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_1_FET_A|SchDesignator=U_1_FET_A|FileName=1_FET_A.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=1_FET_A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_2_FET_B|SchDesignator=U_2_FET_B|FileName=2_FET_B.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2_FET_B.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_3_FET_C|SchDesignator=U_3_FET_C|FileName=3_FET_C.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=3_FET_C.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_4_Connectors|SchDesignator=U_4_Connectors|FileName=4_Connectors.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=4_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=0_Overview.SchDoc|FileName=CurrentAcquisitionInline.SchDoc|SheetNumber=6
