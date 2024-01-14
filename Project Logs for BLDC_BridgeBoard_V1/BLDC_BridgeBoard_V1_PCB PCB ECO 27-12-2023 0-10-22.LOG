@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X11 New Footprint=HDR1X12H
+Change Component Comment : Designator=P1 Old Comment=Header 11 New Comment=Header 12H
+Added Pin To Net: NetName=V3.3 Pin=P1-12
+Added Member To Class: ClassName=U_1_FET_A Member=Component D2 1PS79SB10,115

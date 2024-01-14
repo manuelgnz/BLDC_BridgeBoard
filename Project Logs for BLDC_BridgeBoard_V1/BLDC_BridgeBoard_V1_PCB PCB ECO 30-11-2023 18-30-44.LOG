@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V12 Pin=P1-12
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X13 New Footprint=HDR1X11
+Change Component Comment : Designator=P1 Old Comment=Header 13 New Comment=Header 11

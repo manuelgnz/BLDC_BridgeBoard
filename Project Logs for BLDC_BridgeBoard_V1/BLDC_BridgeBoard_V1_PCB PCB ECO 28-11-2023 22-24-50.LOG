@@ -1,0 +1,24 @@
+Added Component: Designator=U1(DBV0005A_N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "INA180A1IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DBV0005A_N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "INA180A1IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PHA_A_ADC_NF Pin=U1-1
+Added Pin To Net: NetName=AGND Pin=U1-2
+Added Pin To Net: NetName=VPS_A Pin=U1-3
+Added Pin To Net: NetName=AGND Pin=U1-4
+Added Pin To Net: NetName=V5 Pin=U1-5
+Added Pin To Net: NetName=PHA_B_ADC_NF Pin=U2-1
+Added Pin To Net: NetName=AGND Pin=U2-2
+Added Pin To Net: NetName=VPS_B Pin=U2-3
+Added Pin To Net: NetName=AGND Pin=U2-4
+Added Pin To Net: NetName=V5 Pin=U2-5
+Added Member To Class: ClassName=U_1_FET_A Member=Component U1 INA180A1IDBVR
+Added Member To Class: ClassName=U_2_FET_B Member=Component U2 INA180A1IDBVR

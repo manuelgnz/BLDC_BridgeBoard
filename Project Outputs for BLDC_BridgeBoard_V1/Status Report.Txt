@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BLDC_BridgeBoard_V1.PrjPcb]
+   Generated File[BLDC_BridgeBoard_V1_PCB.TXT]
+   Generated File[BLDC_BridgeBoard_V1_PCB.LDP]
+   Generated File[BLDC_BridgeBoard_V1_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:46:05 On 27/12/2023
