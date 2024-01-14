@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BLDC_BridgeBoard_V1_PCB.PcbDoc   27/12/2023  0:46:04
+NCDrill File Report For: BLDC_BridgeBoard_V1_PCB.PcbDoc   14/01/2024  16:21:54
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : BLDC_BridgeBoard_V1_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.711mm (28mil)                                           Round             106       PTH        962.30mm (37.89inch)
-T2      0.9mm (35mil)                                             Round             12        PTH        27.94mm (1.10inch)
-T3      1.143mm (45mil)                                           Round             6         PTH        60.09mm (2.37inch)
-T4      3.048mm (120mil)                                          Round             5         PTH        110.19mm (4.34inch)
+T1      28mil (0.711mm)                                           Round             118       PTH        38.14inch (968.76mm)
+T2      35mil (0.899mm)                                           Round             15        PTH        1.40inch (35.56mm)
+T3      40mil (1.016mm)                                           Round             8         PTH        4.24inch (107.73mm)
+T4      118mil (3mm)                                              Round             3         PTH        2.30inch (58.48mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              129
+Totals                                                                              144
 
 Total Processing Time (hh:mm:ss) : 00:00:00
