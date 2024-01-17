@@ -2,25 +2,6 @@
 FileName = BLDC_BridgeBoard_V1_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Int2 (V12)
-      File : BLDC_BridgeBoard_V1_PCB.G2
-
-    Adding Layer      : Int2 (V12)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : BLDC_BridgeBoard_V1_PCB.GBL
 
@@ -43,23 +24,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : BLDC_BridgeBoard_V1_PCB.GPB
+Generating : Mechanical 13
+      File : BLDC_BridgeBoard_V1_PCB.GM13
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D56
+    D58
+    D59
+    D60
+    D61
+    D62
 *************************************************************
 
 *************************************************************
@@ -84,7 +60,7 @@ Used DCodes :
     D23
     D24
     D25
-    D46
+    D26
     D48
     D49
     D50
@@ -95,17 +71,58 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : BLDC_BridgeBoard_V1_PCB.GBS
+Generating : Bottom Overlay
+      File : BLDC_BridgeBoard_V1_PCB.GBO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Int2 (V12)
+      File : BLDC_BridgeBoard_V1_PCB.G2
+
+    Adding Layer      : Int2 (V12)
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D48
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BLDC_BridgeBoard_V1_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
     D38
     D39
     D40
@@ -114,20 +131,7 @@ Used DCodes :
     D43
     D44
     D45
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : BLDC_BridgeBoard_V1_PCB.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D61
-    D63
+    D46
 *************************************************************
 
 *************************************************************
@@ -152,7 +156,7 @@ Used DCodes :
     D23
     D24
     D25
-    D46
+    D26
     D47
     D48
     D49
@@ -165,37 +169,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : BLDC_BridgeBoard_V1_PCB.GTS
+Generating : Mechanical 1
+      File : BLDC_BridgeBoard_V1_PCB.GM1
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
+    D10
 *************************************************************
 
 *************************************************************
@@ -222,72 +203,19 @@ Used DCodes :
     D23
     D24
     D25
+    D26
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : BLDC_BridgeBoard_V1_PCB.GBO
+Generating : Mechanical 15
+      File : BLDC_BridgeBoard_V1_PCB.GM15
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : BLDC_BridgeBoard_V1_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : BLDC_BridgeBoard_V1_PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Int1 (GND)
-      File : BLDC_BridgeBoard_V1_PCB.G1
-
-    Adding Layer      : Int1 (GND)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 20
-      File : BLDC_BridgeBoard_V1_PCB.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
+    D12
+    D60
     D63
 *************************************************************
 
@@ -306,18 +234,91 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : BLDC_BridgeBoard_V1_PCB.GM13
+Generating : Int1 (GND)
+      File : BLDC_BridgeBoard_V1_PCB.G1
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D58
-    D59
-    D60
-    D61
-    D62
+    D48
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BLDC_BridgeBoard_V1_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BLDC_BridgeBoard_V1_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : BLDC_BridgeBoard_V1_PCB.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BLDC_BridgeBoard_V1_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
 *************************************************************
 
 *************************************************************
@@ -330,10 +331,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D10
-    D58
-    D64
-    D65
+    D59
 *************************************************************
 
 *************************************************************
@@ -346,7 +344,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D58
+    D59
 *************************************************************
 
 *************************************************************
@@ -355,6 +353,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D66
+    D64
 *************************************************************
 
