@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=6_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZNTSHBFB
+
+[Document2]
 DocumentPath=0_Overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,8 +82,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDYVIIPP
 
-[Document2]
-DocumentPath=BLDC_BridgeBoard_V1_PCB.PcbDoc
+[Document3]
+DocumentPath=BLDC_BridgeBoard_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCKDDAJN
 
-[Document3]
+[Document4]
 DocumentPath=BLDC_BridgeBoard_V1_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOVBACAA
 
-[Document4]
+[Document5]
 DocumentPath=BLDC_BridgeBoard_V1.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,41 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=..\..\Users\manue\Downloads\LIB_SI8238BB-D-IS1\SI8238BB-D-IS1\Altium\SOIC127P600X175-16N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BEUIWXFN
-
 [Document6]
-DocumentPath=..\..\Users\manue\Downloads\LIB_SI8238BB-D-IS1\SI8238BB-D-IS1\Altium\SI8238BB-D-IS1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AOYCGIXX
-
-[Document7]
 DocumentPath=..\LibreriasOficiales\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\LibreriasOficiales\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=1_FET_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +175,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGOOQQAY
 
-[Document10]
+[Document9]
 DocumentPath=2_FET_B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +192,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOEYFNQ
 
-[Document11]
+[Document10]
 DocumentPath=3_FET_C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXLZVSRM
 
-[Document12]
+[Document11]
 DocumentPath=4_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -252,24 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKWLEPYT
 
-[Document13]
-DocumentPath=..\CelestialLibrary\altium-library\Altium Database Library V2.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
+[Document12]
 DocumentPath=5_ZeroCrossingDetector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +243,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=7
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -286,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNIDXUZZ
 
-[Document15]
+[Document13]
 DocumentPath=BLDC_BridgeBoard_V1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,24 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDQSJMXN
 
-[Document16]
-DocumentPath=BLDC_BridgeBoard_V1_PCB.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GQDKYVFX
-
-[Document17]
+[Document14]
 DocumentPath=..\LibreriaCustom\Milibreria.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,24 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLYPEJIH
 
-[Document18]
-DocumentPath=..\CelestialLibrary\altium-library\Altium Database Library V2.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
+[Document15]
 DocumentPath=..\LibreriaCustom\SI8238BB-D-IS1\Altium\SOIC127P600X175-16N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,8 +303,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
-DocumentPath=..\LibreriaCustom\SI8238BB-D-IS1\Altium\SI8238BB-D-IS1.SchLib
+[Document16]
+DocumentPath=..\CelestialLibrary\altium-library\Celestial Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1519,9 +1451,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=LMV321IDBVR.IntLib
-ComponentDesignItemID0=LMV321IDBVR
-ComponentSymbolReference0=LMV321IDBVR
+ComponentLibraryIdentifier0=BLDC_BridgeBoard_V1.SCHLIB
+ComponentDesignItemID0=IR2103STRPBF
+ComponentSymbolReference0=IR2103STRPBF
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1537,28 +1469,32 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Copyright
+ParameterName2=Component Kind
 ParameterUpdate2=1
 ParameterName3=Description
 ParameterUpdate3=1
 ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Manufacturer_Part_Number
+ParameterName5=MF
 ParameterUpdate5=1
-ParameterName6=Mfr_Name
+ParameterName6=MP
 ParameterUpdate6=1
-ParameterName7=RefDes
+ParameterName7=Package
 ParameterUpdate7=1
-ParameterName8=Type
+ParameterName8=Price
 ParameterUpdate8=1
+ParameterName9=SnapEDA_Link
+ParameterUpdate9=1
+ParameterName10=Value
+ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DBV5
+ModelName0=SOIC8_IR2103STRPBF
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
