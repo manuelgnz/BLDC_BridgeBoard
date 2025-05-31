@@ -1,0 +1,59 @@
+# Altium project files to ignore
+
+# Backup and autosave files
+*.PrjPCBPreview
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPCBStructure
+*.tmp
+*.bak
+*.dmp
+
+# User/system files
+*.Dat
+*.OutJob
+*.Log
+*.err
+*.Ini
+*.Status
+*.IntLib
+*.Wrk
+*.Design Rule Check
+
+# Libraries (exclude only if not custom)
+*.PcbLibPreview
+*.SchLibPreview
+*.pcblib
+*.schlib
+
+# Generated output
+*.pdf
+*.zip
+*.xls
+*.xlsx
+*.csv
+*.html
+*.xml
+*.cam
+*.ger
+*.gbr
+*.gbl
+*.gbs
+*.gbo
+*.gml
+*.gko
+*.gtl
+*.gts
+*.gto
+*.drl
+*.ncb
+*.pos
+*.rep
+
+# Folders to ignore
+__Previews/
+__Output/
+History/
+Project Logs/
+OutputJobFiles/
+Simulation/
